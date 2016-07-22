@@ -2,9 +2,7 @@
 //  MASAppDelegate.m
 //  Masonry
 //
-//  Created by Jonas Budelmann on 20/07/13.
-//  Copyright (c) 2013 cloudling. All rights reserved.
-//
+
 
 #import "MASAppDelegate.h"
 #import "MASExampleListViewController.h"
@@ -23,4 +21,4 @@
 }
 
 @end
-//带点吃的hahahhahhahahha卡卡卡卡卡是
+
